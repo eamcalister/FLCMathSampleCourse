@@ -1,0 +1,18 @@
+WARNING : Using CLI version 2.19.3 but project's `requirements.txt`
+WARNING : is configured to use 2.19.2. Consider either installing
+WARNING : CLI version 2.19.2 or running `pretext update`
+WARNING : to update `requirements.txt` and other managed files to match 2.19.3.
+INFO    : Now preparing local server to preview your project directory `C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse`.
+INFO    :   (Reminder: use `pretext deploy` to deploy your built project to a public
+INFO    :   GitHub Pages site that can be shared with readers who cannot access your
+INFO    :   personal computer.)
+INFO    : 
+INFO    : starting server ...
+INFO    : setting up ...
+INFO    : values set...
+INFO    : adding server entry
+INFO    : Added server entry 3f624a2b78 27760 8128 localhost
+
+INFO    : Starting the server
+INFO    : Server will soon be available at http://localhost:8128
+INFO    : Opening browser for target `activities-web` at http://localhost:8128/output/activities-web

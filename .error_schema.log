@@ -1,0 +1,5 @@
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/syllabus.ptx:8:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element bibinfo has extra content: author
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/syllabus.ptx:11:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element subtitle there
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/syllabus.ptx:11:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element sidebyside, got subtitle
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/syllabus.ptx:11:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element proof, got subtitle
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/syllabus.ptx:11:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element exercise, got subtitle
