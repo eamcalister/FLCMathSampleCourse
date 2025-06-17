@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Front Matter",
   "number": "",
   "title": "Front Matter",
-  "body": "  Instructor Lastname Mathematical Sciences University of Templates  Last Updated:       "
+  "body": "  Mathematics Department Fort Lewis College  Last Updated:       "
 },
 {
   "id": "wkst-relns-digraphs",

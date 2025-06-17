@@ -1,0 +1,78 @@
+INFO    : Building target activities-web
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : Generating any needed assets.
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : converting PreFigure diagrams from C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx to SVG graphics for placement in C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\generated-assets\prefigure
+INFO    : extracting PreFigure diagrams from C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx
+INFO    : string parameters passed to extraction stylesheet: {'cli.version': '2.19', 'publisher': 'C:/Users/Erich/Desktop/pretext_locals/FLCMathSampleCourse/publication/publication.ptx'}
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\extract-prefigure.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking ONLY the last TWO YEARS of element deprecations.
+Rerun with the string parameter "author.deprecations.all" set to "yes" to check your source against all deprecations.
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\extract-prefigure.xsl
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-1-a.xml to SVG
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-1-b.xml to SVG
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-1-c.xml to SVG
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-2-a.xml to SVG
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-2-b.xml to SVG
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-2-c.xml to SVG
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-3-a.xml to SVG
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-3-b.xml to SVG
+INFO    : compiling PreFigure source file 2025-Worksheet-12-Ex-6-digraph.xml to SVG
+INFO    : copying PreFigure output to C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\generated-assets\prefigure
+INFO    : Removing temporary directory C:\Users\Erich\AppData\Local\Temp\ptx-zni4ssoa
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\output\activities-web.
+INFO    : discovering source file's directory name: C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source
+INFO    : verifying and expanding input directory: C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\../generated-assets
+INFO    : input directory expanded to absolute path: C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\generated-assets
+INFO    : verifying and expanding input directory: C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\../assets
+INFO    : input directory expanded to absolute path: C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\assets
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : Downloading rs services file from https://runestone.academy/cdn/runestone/latest/webpack_static_imports.xml.
+INFO    : Runestone Services via online CDN query: version 7.8.1
+INFO    : Downloading Runestone Services, version 7.8.1
+INFO    : Extracting Runestone Services from archive file
+INFO    : Building custom css theme: theme-salem
+INFO    : converting C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx to HTML in C:\Users\Erich\AppData\Local\Temp\ptx-w14ctmz8
+INFO    : XSL conversion of C:\Users\Erich\Desktop\pretext_locals\FLCMathSampleCourse\source\activities.ptx by C:\Users\Erich\.ptx\2.19.3\core\xsl\pretext-html.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking ONLY the last TWO YEARS of element deprecations.
+Rerun with the string parameter "author.deprecations.all" set to "yes" to check your source against all deprecations.
+INFO    : successful application of C:\Users\Erich\.ptx\2.19.3\core\xsl\pretext-html.xsl
+INFO    : Removing temporary directory C:\Users\Erich\AppData\Local\Temp\ptx-w14ctmz8
+INFO    : Removing temporary directory C:\Users\Erich\AppData\Local\Temp\ptx-d4xc43sc
+INFO    : 
+Success! Run `pretext view activities-web` to see the results.
+
+INFO    : 
