@@ -22,6 +22,7 @@
 
   <!--include learning outcomes-->
   <!--include appropriate file for indicated GTPathways courses-->
+  <!--otherwise include learning outcomes for the course you are teaching (should be on Sharepoint)-->
   <xi:include href="./syllabus/121syllabus-learning-outcomes.ptx" />
 
   <!--include grading scheme and assignment types-->

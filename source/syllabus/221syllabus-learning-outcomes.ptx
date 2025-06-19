@@ -7,17 +7,42 @@
       <ul>
         <li>
           <p>
-            Students demonstrate an understanding of functions in multiple ways including graphical representations, algebraic representations, and verbal descriptions.
+            Interpret limits graphically and describe limiting behavior verbally.
           </p>
         </li>
         <li>
           <p>
-            Students will demonstrate understanding of abstract function notation, proficiency working with abstract functions, and understanding functions that are not defined algebraically. This shall include working with affine transformations of functions, definitions of inverses and compositions of functions, and working with functions that are defined geometrically.
+            Compute limits for functions with horizontal and vertical asymptotes, removable singularities,and regular points.
           </p>
         </li>
         <li>
           <p>
-            Students will demonstrate proficiency working with parametrized families of functions. These families shall include linear functions, polynomials, rational functions, exponential functions, logarithmic functions, and trigonometric functions. Transformations, inverses, and compositions of such functions will also be addressed. Skills shall include finding parameter values from data, evaluating functions, solving equations, and selecting which family would best represent a given data set/real world application.
+            Infer properties of a function given a graphical or verbal description.
+          </p>
+        </li>
+        <li>
+          <p>
+            Compute the derivative of power, exponential, trigonometric functions, their inverses, as well as functions that are products, quotients, or compositions of elementary functions.
+          </p>
+        </li>
+        <li>
+          <p>
+            Apply theory and techniques of differentiation in the contexts of implicit differentiation, linear approximation, optimization, related rates and L'Hopital's rule.
+          </p>
+        </li>
+        <li>
+          <p>
+            Approximate areas using Riemann sums, compute definite integrals of piecewise linear (or circular) functions geometrically, and deduce properties of the definite integral from its geometric definition.
+          </p>
+        </li>
+        <li>
+          <p>
+            Interpret accumulation functions <m>F(x) = \int_0^xf(t)dt</m> geometrically, and use the Fundamental Theorem of Calculus to connect accumulation functions as described above with antiderivatives.
+          </p>
+        </li>
+        <li>
+          <p>
+            Compute antiderivatives of power, exponential, trigonometric functions, and inverse trig functions, as well as antiderivatives that can be computed using the substitution method.
           </p>
         </li>
       </ul>
@@ -36,6 +61,11 @@
         <li>
           <p>
             Students will demonstrate competency in Geometry.
+          </p>
+        </li>
+        <li>
+          <p>
+            Students will demonstrate competency in Calculus.
           </p>
         </li>
         <li>
