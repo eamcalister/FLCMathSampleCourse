@@ -46,31 +46,31 @@ var ptx_lunr_docs = [
   "body": "  Data for rainfall, , in Tucson, Arizona is given in below, where time, , is in months with being January.       (months)    (inches)       Find and interpret .    Solve and interpret the meaning of your answer.    Solve and interpret the meaning of your answer.     "
 },
 {
-  "id": "121-transformations",
+  "id": "sec-section-name-5",
   "level": "1",
-  "url": "121-transformations.html",
+  "url": "sec-section-name-5.html",
   "type": "Worksheet",
   "number": "",
   "title": "Math 121 Graphical Transformation Worksheet",
-  "body": " Math 121 Graphical Transformation Worksheet     Include an interactive (Desmos) in an activity with a QR code available for the print version.      This activity asks students to describe the effect of different affine transformation of functions after experimenting with Desmos. The pre-built Desmos graph appears in the html version while a QR code is created in the print version.     Use the interactive Desmos graph given below with sliders for and to describe the effect of each algebraic substitutions on the graph of .   Note: frhv1grqhj is the last part of the Desmos graph. When you modify the Desmos graph and re-save it, that ma change the url.       has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .      "
+  "body": " Math 121 Graphical Transformation Worksheet     Include an interactive (Desmos) in an activity with a QR code available for the print version.      This activity asks students to describe the effect of different affine transformation of functions after experimenting with Desmos. The pre-built Desmos graph appears in the html version while a QR code is created in the print version.     Use the interactive Desmos graph given above with sliders for and to describe the effect of each algebraic substitutions on the graph of .   Note: frhv1grqhj is the last part of the Desmos graph. When you modify the Desmos graph and re-save it, that may change the url.        has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .      "
 },
 {
-  "id": "121-transformations-2",
+  "id": "sec-section-name-5-2",
   "level": "2",
-  "url": "121-transformations.html#121-transformations-2",
+  "url": "sec-section-name-5.html#sec-section-name-5-2",
   "type": "Objectives",
   "number": "",
   "title": "",
   "body": "   Include an interactive (Desmos) in an activity with a QR code available for the print version.    "
 },
 {
-  "id": "121-transformations-4",
+  "id": "sec-section-name-5-4",
   "level": "2",
-  "url": "121-transformations.html#121-transformations-4",
+  "url": "sec-section-name-5.html#sec-section-name-5-4",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Use the interactive Desmos graph given below with sliders for and to describe the effect of each algebraic substitutions on the graph of .   Note: frhv1grqhj is the last part of the Desmos graph. When you modify the Desmos graph and re-save it, that ma change the url.       has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     "
+  "body": "  Use the interactive Desmos graph given above with sliders for and to describe the effect of each algebraic substitutions on the graph of .   Note: frhv1grqhj is the last part of the Desmos graph. When you modify the Desmos graph and re-save it, that may change the url.        has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     "
 },
 {
   "id": "221-tangents",
