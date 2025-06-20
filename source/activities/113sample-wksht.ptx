@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->     <worksheet margin="1in" bottom="1.25cm" xml:id="113-functions">
+    <title>Math 113 Function Intro Worksheet</title>
+
+            
+	<objectives>
+		<ul>
+	  		<li>
+	  			<p>
+					Use an externally generated image in an exercise.
+	  			</p>
+	  		</li>
+			<li>
+				<p>
+					Use an internally generated table in an exercise.
+				</p>
+			</li>
+            <li>
+                <p>
+                    Use an ordered list for enumeration within an exercise.
+                </p>
+            </li>
+	  	</ul>
+    </objectives>
+    <introduction>
+        <p>
+            In this worksheet we will work with function notation and see a couple Pretext techniques. The exercises are from the active learning ancilliary materials from <alert>Functions Modelling Change: A Preparation for Calculus</alert> by Connaly et al.
+        </p>
+    </introduction>
+<page>
+    <exercise workspace="2in">
+    <statement>
+        <p>
+            Use the figure below to fill in the missing values.
+            <ol>
+                <li>
+                    <p>
+                        <m>f(0) = ?</m>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <m>f(?) = 0</m>
+                   </p>
+                </li>
+            </ol>
+        <figure xml:id="1_1FunctionGraph">
+            <caption>Graph saved in assets as .png from outside source.</caption>
+            <image width="75%" source="IntroGraph.png">     
+            </image>
+        </figure>
+        </p>
+    </statement>
+    </exercise>
+</page>
+    
+<page>
+    <exercise workspace="3in">
+    <statement>
+        <p>
+            Data for rainfall, <m>R = f(t)</m>, in Tucson, Arizona is given in <xref ref="rain-table"/> below, where time, <m>t</m>, is in months with <m>t=1</m> being January. 
+        </p>
+        <table xml:id="rain-table">
+            <title></title>
+            <tabular>
+                <row bottom = "major">
+                    <cell> <m>t</m> (months)</cell><cell><m>1</m></cell><cell><m>2</m></cell><cell><m>3</m></cell><cell><m>4</m></cell><cell><m>5</m></cell>
+                </row>
+                <row>
+                    <cell><m>R</m> (inches)</cell><cell><m>0</m></cell><cell><m>0.1</m></cell><cell><m>0.54</m></cell><cell><m>0.1</m></cell><cell><m>0.35</m></cell>
+                </row>
+            </tabular>
+        </table>
+        <ol>
+            <li>
+                <p>
+                    Find and interpret <m>f(5)</m>.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Solve <m>f(t) = 0</m> and interpret the meaning of your answer.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Solve <m>f(t) = 0.1</m> and interpret the meaning of your answer.
+                </p>
+            </li>
+        </ol>
+    </statement>
+    </exercise>
+</page>
+
+</worksheet>
+

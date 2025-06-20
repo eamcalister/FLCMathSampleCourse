@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <worksheet margin="1in" bottom="1.25cm" xml:id="121-transformations">
+            <title>Math 121 Graphical Transformation Worksheet</title>
+
+            <objectives>
+		<ul>
+	  		<li>
+	  			<p>
+					Include an interactive (Desmos) in an activity with a QR code available for the print version.
+	  			</p>
+	  		</li>
+	  	</ul>
+    </objectives>
+            <introduction>
+                <p>
+                    This activity asks students to describe the effect of different affine transformation of functions after experimenting with Desmos. The pre-built Desmos graph appears in the html version while a QR code is created in the print version.
+                </p>
+            </introduction>
+
+            <exercise workspace="2in">
+                <statement>
+                    <p>
+                        Use the interactive Desmos graph given below with sliders for <m>a</m> and <m>b</m> to describe the effect of each algebraic substitutions on the graph of <m>y = f(x)</m>.
+                    </p>
+                    <figure>
+                    <caption>Note: frhv1grqhj is the last part of the Desmos graph. When you modify the Desmos graph and re-save it, that ma change the url.</caption>
+                    <interactive xml:id="desmos-transformations" desmos="frhv1grqhj" width="100%" aspect="1:1" QR = "https://www.desmos.com/calculator/frhv1grqhj"/>
+                    </figure>
+                    <ol>
+                        <li>
+                            <p>
+                                <m>f(-x)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+                            </p>
+                        </li>
+                         <li>
+                            <p>
+                                <m>-f(x)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <m>f(x-a)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <m>f(x+a)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <m>f(x)+b</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <m>f(x)+b</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+                            </p>
+                        </li>
+                    </ol>
+                </statement>
+            </exercise>
+        </worksheet>
