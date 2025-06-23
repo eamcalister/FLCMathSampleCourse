@@ -24,9 +24,9 @@
                     <p>
                         Use the interactive Desmos graph given above with sliders for <m>a</m> and <m>b</m> to describe the effect of each algebraic substitutions on the graph of <m>y = f(x)</m>.
                     </p>
-                    <figure>
+                    <figure xml:id="desmos-interactive">
                     <caption>Note: frhv1grqhj is the last part of the Desmos graph. When you modify the Desmos graph and re-save it, that may change the url.</caption>
-                    <interactive desmos="frhv1grqhj" width="100%" aspect="1:1" />
+                    <interactive  desmos="frhv1grqhj" width="100%" aspect="1:1" />
                     </figure>
                     
                     <ol>

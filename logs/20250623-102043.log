@@ -1,0 +1,29 @@
+INFO    : Staging deployment according to strategy pelican_default
+INFO    : Staging `syllabus-web` at `C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\output\stage\syllabus`.
+INFO    : Staging `activities-web` at `C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\output\stage\worksheets`.
+WARNING : No build for `notes-web` was found in the directory `C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\output\notes-web`.Try running `pretext build notes-web` to build this component first.
+INFO    : Skipping this target for now.
+INFO    : Staging generated site at `C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\output\stage`.
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\syllabus.ptx by C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : Deployment is now staged at `C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\output\stage`.
+INFO    : Preparing to deploy from active `main` git branch.
+
+INFO    : Changes to project source since last commit detected.
+WARNING : Don't forget to either add and commit the changes to your source with git, or run `pretext deploy -u` to have these changes updated automatically.
+WARNING : Just deploying your built project will not save changes to your source on GitHub.`
+INFO    : Committing your latest build to the `gh-pages` branch.
+INFO    : 
+INFO    : Attempting to connect to remote repository at `https://github.com/eamcalister/FLCMathSampleCourse.git`...
+INFO    : Latest build successfully pushed to GitHub!
+
+INFO    : To enable GitHub Pages, visit
+INFO    :     https://github.com/eamcalister/FLCMathSampleCourse/settings/pages
+INFO    : selecting the `gh-pages` branch with the `/ (root)` folder.
+
+INFO    : Visit
+INFO    :     https://github.com/eamcalister/FLCMathSampleCourse/actions/
+INFO    : to check on the status of your GitHub Pages deployment.
+
+INFO    : Your built project will soon be available to the public at:
+INFO    :     https://eamcalister.github.io/FLCMathSampleCourse/
