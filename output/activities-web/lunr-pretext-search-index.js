@@ -52,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Math 121 Graphical Transformation Worksheet",
-  "body": " Math 121 Graphical Transformation Worksheet     Include an interactive (Desmos) in an activity with a QR code available for the print version.      This activity asks students to describe the effect of different affine transformation of functions after experimenting with Desmos. The pre-built Desmos graph appears in the html version while a QR code is created in the print version.     Use the interactive Desmos graph given above with sliders for and to describe the effect of each algebraic substitutions on the graph of .   Note: frhv1grqhj is the last part of the Desmos graph. When you modify the Desmos graph and re-save it, that may change the url.       has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .      "
+  "body": " Math 121 Graphical Transformation Worksheet     Include an interactive (Desmos) in an activity with a QR code available for the print version.    Note how to include QR codes for interactives in print versions of worksheets.    Discuss creating individual pdf versions of worksheets to hand out in class.      This activity asks students to describe the effect of different affine transformation of functions after experimenting with Desmos. The pre-built Desmos graph appears in the html version while a QR code is created in the print version.     Use the interactive Desmos graph given above with sliders for and to describe the effect of each algebraic substitutions on the graph of .   Note: frhv1grqhj is the last part of the Desmos graph. When you modify the Desmos graph and re-save it, that may change the url.       has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .       Interactive Remarks    The ability to print directly from html versions of worksheets isn't great. Hence, if you want to ahnd out worksheets in class,you should use the command pretext build activities-print to generate a pdf version and print the worksheet you want.      Obviously, interactive elements don't work very well in printed worksheets. When you print a worksheet you can have it include a static screenshot of the given interactive as well as a QR code to the interactive (still within your pretext book). To do this, you need to edit the file publication-activities.ptx . In this file, find the html section and edit the baseurl entry to be the url of your deployed Pretext project with \/worksheets at the end.      For further discussion of interactive elements, go to .     "
 },
 {
   "id": "sec-section-name-5-2",
@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "   Include an interactive (Desmos) in an activity with a QR code available for the print version.    "
+  "body": "   Include an interactive (Desmos) in an activity with a QR code available for the print version.    Note how to include QR codes for interactives in print versions of worksheets.    Discuss creating individual pdf versions of worksheets to hand out in class.    "
 },
 {
   "id": "sec-section-name-5-4",
@@ -71,6 +71,33 @@ var ptx_lunr_docs = [
   "number": "1",
   "title": "",
   "body": "  Use the interactive Desmos graph given above with sliders for and to describe the effect of each algebraic substitutions on the graph of .   Note: frhv1grqhj is the last part of the Desmos graph. When you modify the Desmos graph and re-save it, that may change the url.       has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     "
+},
+{
+  "id": "interactive-remarks-2",
+  "level": "2",
+  "url": "sec-section-name-5.html#interactive-remarks-2",
+  "type": "Remark",
+  "number": "4",
+  "title": "",
+  "body": "  The ability to print directly from html versions of worksheets isn't great. Hence, if you want to ahnd out worksheets in class,you should use the command pretext build activities-print to generate a pdf version and print the worksheet you want.   "
+},
+{
+  "id": "interactive-remarks-3",
+  "level": "2",
+  "url": "sec-section-name-5.html#interactive-remarks-3",
+  "type": "Remark",
+  "number": "5",
+  "title": "",
+  "body": "  Obviously, interactive elements don't work very well in printed worksheets. When you print a worksheet you can have it include a static screenshot of the given interactive as well as a QR code to the interactive (still within your pretext book). To do this, you need to edit the file publication-activities.ptx . In this file, find the html section and edit the baseurl entry to be the url of your deployed Pretext project with \/worksheets at the end.   "
+},
+{
+  "id": "interactive-remarks-4",
+  "level": "2",
+  "url": "sec-section-name-5.html#interactive-remarks-4",
+  "type": "Remark",
+  "number": "6",
+  "title": "",
+  "body": "  For further discussion of interactive elements, go to .   "
 },
 {
   "id": "221-tangents",

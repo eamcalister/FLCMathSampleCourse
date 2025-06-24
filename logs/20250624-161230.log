@@ -1,0 +1,41 @@
+INFO    : Building target activities-print
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : Generating any needed assets.
+INFO    : Checking for update for required playwright chromium browser.
+INFO    : using playwright package to create previews for interactives from C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx for placement in C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\generated-assets\preview
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\extract-interactive.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking ONLY the last TWO YEARS of element deprecations.
+Rerun with the string parameter "author.deprecations.all" set to "yes" to check your source against all deprecations.
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\extract-interactive.xsl
+INFO    : discovering source file's directory name: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source
+INFO    : verifying and expanding input directory: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\../generated-assets
+INFO    : input directory expanded to absolute path: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\generated-assets
+INFO    : verifying and expanding input directory: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\../assets
+INFO    : input directory expanded to absolute path: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\assets
+INFO    : automatic screenshot of interactive with identifier "demos-shift-reflect-int" on page http://localhost:8888/demos-shift-reflect-int.html to file demos-shift-reflect-int-preview.png
+INFO    : Closing http.server thread
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : manufacturing QR codes from C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx for placement in C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\generated-assets\qrcode
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\extract-qrcode.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\extract-qrcode.xsl
+INFO    : creating URL with content "https://eamcalister.github.io/FLCMathSampleCourse/worksheets/demos-shift-reflect-int.html" as C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\generated-assets\qrcode\demos-shift-reflect-int.png...
+INFO    : QR code creation complete
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-2te8i_q_
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-ymig_bev
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-b36gj9zf
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\output\activities-print.
+INFO    : converting C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx to LaTeX as C:\Users\MCALIS~1\AppData\Local\Temp\ptx-frq2imnm\activities.tex
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\pretext-latex.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\pretext-latex.xsl
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-frq2imnm
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-bj25v88w
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-_mvpiksh
+INFO    : 
+Success! The output is in C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\output\activities-print.
+
+INFO    : 

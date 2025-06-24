@@ -1,0 +1,139 @@
+WARNING : Overriding source file for target with: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities\121sample-wksht.ptx
+INFO    : Building target pdf
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities\121sample-wksht.ptx by C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : messages from the log for XSL processing:
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : Generating any needed assets.
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\output\pdfs.
+INFO    : discovering source file's directory name: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities
+INFO    : verifying and expanding input directory: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities\../generated-assets
+INFO    : input directory expanded to absolute path: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\generated-assets
+INFO    : verifying and expanding input directory: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities\../assets
+INFO    : input directory expanded to absolute path: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\assets
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities\121sample-wksht.ptx by C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\utilities\report-publisher-variables.xsl
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : converting C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities\121sample-wksht.ptx to LaTeX as C:\Users\MCALIS~1\AppData\Local\Temp\ptx-rjhf_qvh\121sample-wksht.tex
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities\121sample-wksht.ptx by C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\pretext-latex.xsl
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: Level offset undefined for this document type
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+INFO    : * PTX:INFO:   checking ONLY the last TWO YEARS of element deprecations.
+Rerun with the string parameter "author.deprecations.all" set to "yes" to check your source against all deprecations.
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\pretext-latex.xsl
+ERROR   : * PTX:ERROR: Table of Contents level not determined
+ERROR   : * PTX:BUG: a document type needs a default footnote project level defined
+ERROR   : * PTX:BUG: a document type needs a maximum division level defined
+ERROR   : * PTX:BUG: a document type needs a default project level defined
+ERROR   : * PTX:BUG: a document type needs a default equation project level defined
+ERROR   : * PTX:BUG: a document type needs a default block numbering level defined
+CRITICAL: [WinError 2] The system cannot find the file specified
+INFO    : ------------------------
+CRITICAL: Failed to build.  Exiting...
+INFO    : 
+----------------------------------------------------
+INFO    : While running pretext, the following errors occurred:
+
+INFO    : (see log messages above or in the 'logs' folder for more information)
+INFO    : ----------------------------------------------------
