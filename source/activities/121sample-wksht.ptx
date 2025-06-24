@@ -77,18 +77,34 @@
 
         <subsection xml:id="interactive-remarks">
             <title>Interactive Remarks</title>
+
         <remark>
             <statement>
                 <p>
-                    The ability to print directly from html versions of worksheets isn't great. Hence, if you want to ahnd out worksheets in class,you should use the command <c>pretext build activities-print</c> to generate a pdf version and print the worksheet you want.
+                    Obviously, interactive elements don't work very well in printed worksheets. When you print a worksheet you can have it include a static screenshot of the given interactive as well as a QR code to the interactive (still within your pretext book). To do this, you need to edit the file <c>publication-standalone.ptx</c>. In this file, find the <c> html </c> section and edit the <c>baseurl</c> entry to be the url of your deployed Pretext project with <c>/worksheets</c> at the end.
                 </p>
             </statement>
         </remark>
         <remark>
             <statement>
                 <p>
-                    Obviously, interactive elements don't work very well in printed worksheets. When you print a worksheet you can have it include a static screenshot of the given interactive as well as a QR code to the interactive (still within your pretext book). To do this, you need to edit the file <c>publication-activities.ptx</c>. In this file, find the <c> html </c> section and edit the <c>baseurl</c> entry to be the url of your deployed Pretext project with <c>/worksheets</c> at the end.
+                    The ability to print directly from html versions of worksheets isn't great. Hence, if you want to hand out worksheets in class, you will need to do the following:
+                    <ul>
+                        <li>
+                            <p>
+                                Uncomment the <c>pretext</c> and <c>article</c> tags at the top and bottom of the worksheet's ptx file.
+                            </p>
+                        </li>
+                    <li>
+                    <p>
+                    Run the command <c>pretext build  pdf -i ./source/activities/121samplewksht.ptx</c> (change file name to your worksheet) to generate a pdf version and print the worksheet you want.
+                    </p>
+                    </li>
+                </ul>    
+                Now your worksheet will appear in <c>output/pdfs</c>.
+
                 </p>
+
             </statement>
         </remark>
         <remark>

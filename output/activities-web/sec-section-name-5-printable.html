@@ -238,12 +238,27 @@ eBookConfig.enable_chatcodes =  false;
 <article class="remark remark-like" id="interactive-remarks-2"><h4 class="heading">
 <span class="type">Remark</span><span class="space"> </span><span class="codenumber">4</span><span class="period">.</span>
 </h4>
-<div class="para" id="interactive-remarks-2-1-1">The ability to print directly from html versions of worksheets isn’t great. Hence, if you want to ahnd out worksheets in class,you should use the command <code class="code-inline tex2jax_ignore">pretext build activities-print</code> to generate a pdf version and print the worksheet you want.<div class="autopermalink" data-description="Paragraph"><a href="#interactive-remarks-2-1-1" title="Copy permalink for Paragraph">🔗</a></div>
+<div class="para" id="interactive-remarks-2-1-1">Obviously, interactive elements don’t work very well in printed worksheets. When you print a worksheet you can have it include a static screenshot of the given interactive as well as a QR code to the interactive (still within your pretext book). To do this, you need to edit the file <code class="code-inline tex2jax_ignore">publication-standalone.ptx</code>. In this file, find the <code class="code-inline tex2jax_ignore"> html </code> section and edit the <code class="code-inline tex2jax_ignore">baseurl</code> entry to be the url of your deployed Pretext project with <code class="code-inline tex2jax_ignore">/worksheets</code> at the end.<div class="autopermalink" data-description="Paragraph"><a href="#interactive-remarks-2-1-1" title="Copy permalink for Paragraph">🔗</a></div>
 </div>
 <div class="autopermalink" data-description="Remark 4"><a href="#interactive-remarks-2" title="Copy permalink for Remark 4">🔗</a></div></article><article class="remark remark-like" id="interactive-remarks-3"><h4 class="heading">
 <span class="type">Remark</span><span class="space"> </span><span class="codenumber">5</span><span class="period">.</span>
 </h4>
-<div class="para" id="interactive-remarks-3-1-1">Obviously, interactive elements don’t work very well in printed worksheets. When you print a worksheet you can have it include a static screenshot of the given interactive as well as a QR code to the interactive (still within your pretext book). To do this, you need to edit the file <code class="code-inline tex2jax_ignore">publication-activities.ptx</code>. In this file, find the <code class="code-inline tex2jax_ignore"> html </code> section and edit the <code class="code-inline tex2jax_ignore">baseurl</code> entry to be the url of your deployed Pretext project with <code class="code-inline tex2jax_ignore">/worksheets</code> at the end.<div class="autopermalink" data-description="Paragraph"><a href="#interactive-remarks-3-1-1" title="Copy permalink for Paragraph">🔗</a></div>
+<div class="para logical" id="interactive-remarks-3-1-1">
+<div class="para">The ability to print directly from html versions of worksheets isn’t great. Hence, if you want to hand out worksheets in class, you will need to do the following:</div>
+<ul class="disc" id="interactive-remarks-3-1-1-1">
+<li id="interactive-remarks-3-1-1-1-1">
+<div class="para" id="interactive-remarks-3-1-1-1-1-1">Uncomment the <code class="code-inline tex2jax_ignore">pretext</code> and <code class="code-inline tex2jax_ignore">article</code> tags at the top and bottom of the worksheet’s ptx file.<div class="autopermalink" data-description="Paragraph"><a href="#interactive-remarks-3-1-1-1-1-1" title="Copy permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item"><a href="#interactive-remarks-3-1-1-1-1" title="Copy permalink for Item">🔗</a></div>
+</li>
+<li id="interactive-remarks-3-1-1-1-2">
+<div class="para" id="interactive-remarks-3-1-1-1-2-1">Run the command <code class="code-inline tex2jax_ignore">pretext build  pdf -i ./source/activities/121samplewksht.ptx</code> (change file name to your worksheet) to generate a pdf version and print the worksheet you want.<div class="autopermalink" data-description="Paragraph"><a href="#interactive-remarks-3-1-1-1-2-1" title="Copy permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item"><a href="#interactive-remarks-3-1-1-1-2" title="Copy permalink for Item">🔗</a></div>
+</li>
+</ul>
+<div class="para">Now your worksheet will appear in <code class="code-inline tex2jax_ignore">output/pdfs</code>.</div>
+<div class="autopermalink" data-description="Paragraph"><a href="#interactive-remarks-3-1-1" title="Copy permalink for Paragraph">🔗</a></div>
 </div>
 <div class="autopermalink" data-description="Remark 5"><a href="#interactive-remarks-3" title="Copy permalink for Remark 5">🔗</a></div></article><article class="remark remark-like" id="interactive-remarks-4"><h4 class="heading">
 <span class="type">Remark</span><span class="space"> </span><span class="codenumber">6</span><span class="period">.</span>
