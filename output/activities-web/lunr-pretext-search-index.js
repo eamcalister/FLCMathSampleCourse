@@ -106,30 +106,39 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Math 221 Tangent Line Worksheet",
-  "body": " Math 221 Tangent Line Worksheet   This is the introduction to the activity.     This is the first exercise.    "
+  "body": " Math 221 Tangent Line Worksheet     Show how to include an image using Prefigure code.    Show displayed and alligned math as well as some minor math typesetting issues that come from xml syntax (see the code for details).      In this activity students are asked to decide when to switch the tangent line approximation they use to approximate square roots.    Set-up  Recall from class that we can approximate square roots of numbers that aren't perfect squares using the tangent line approximation near some number  where .  For instance, to approximate we decided to use the tangent line approximation at the nearest perfect square, which is given by  Thus, we can estimate .  Now, what if there isn't a ``nearest'' perfect square? For instance, which tangent line should we use to approximate ( is exactly halfway between and )? The following exercise will help us figure out the answer.     Below is the graph of along with its tangent lines at and .   The graph of and its tangent line approximations at and .     a=4  b=9  f(x) = x^(0.5)                (9,3)           "
 },
 {
-  "id": "221-tangents-3",
+  "id": "221-tangents-2",
   "level": "2",
-  "url": "221-tangents.html#221-tangents-3",
+  "url": "221-tangents.html#221-tangents-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Show how to include an image using Prefigure code.    Show displayed and alligned math as well as some minor math typesetting issues that come from xml syntax (see the code for details).    "
+},
+{
+  "id": "221-tangents-5",
+  "level": "2",
+  "url": "221-tangents.html#221-tangents-5",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  This is the first exercise.   "
+  "body": "  Below is the graph of along with its tangent lines at and .   The graph of and its tangent line approximations at and .     a=4  b=9  f(x) = x^(0.5)                (9,3)          "
 },
 {
-  "id": "222-series-tests",
+  "id": "sec-section-name-7",
   "level": "1",
-  "url": "222-series-tests.html",
+  "url": "sec-section-name-7.html",
   "type": "Worksheet",
   "number": "",
   "title": "Math 222 Series Test Worksheet",
   "body": " Math 222 Series Test Worksheet   This is the introduction to the activity.     This is the first exercise.    "
 },
 {
-  "id": "222-series-tests-3",
+  "id": "sec-section-name-7-3",
   "level": "2",
-  "url": "222-series-tests.html#222-series-tests-3",
+  "url": "sec-section-name-7.html#sec-section-name-7-3",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",

@@ -1,0 +1,25 @@
+INFO    : Building target activities-web
+ERROR   : XInclude Error caused build to fail:
+ERROR   : file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/113sample-wksht.ptx:5:63:ERROR:DTD:DTD_XMLID_VALUE: xml:id : attribute value 113-functions is not an NCName
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/113sample-wksht.ptx:50:42:ERROR:DTD:DTD_XMLID_VALUE: xml:id : attribute value 1_1FunctionGraph is not an NCName
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/221sample-wksht.ptx:5:62:ERROR:DTD:DTD_XMLID_VALUE: xml:id : attribute value 221-tangents is not an NCName
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/221sample-wksht.ptx:84:15:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: group line 79 and point
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/221sample-wksht.ptx:85:13:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: coordinates line 70 and group
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/221sample-wksht.ptx:86:17:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: diagram line 66 and coordinates
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/221sample-wksht.ptx:90:11:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: prefigure line 65 and diagram
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/221sample-wksht.ptx:91:13:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: image line 64 and prefigure
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/221sample-wksht.ptx:92:9:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: figure line 60 and image
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/221sample-wksht.ptx:93:10:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: statement line 55 and figure
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/221sample-wksht.ptx:97:13:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: exercise line 54 and statement
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/221sample-wksht.ptx:99:12:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: worksheet line 5 and exercise
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/221sample-wksht.ptx:100:1:FATAL:PARSER:ERR_DOCUMENT_END: Extra content at the end of the document
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities.ptx:15:0:ERROR:XINCLUDE:XINCLUDE_NO_FALLBACK: could not load file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/221sample-wksht.ptx, and no fallback was found
+CRITICAL: XML syntax for source file is invalid
+INFO    : ------------------------
+CRITICAL: Failed to build.  Exiting...
+INFO    : 
+----------------------------------------------------
+INFO    : While running pretext, the following errors occurred:
+
+INFO    : (see log messages above or in the 'logs' folder for more information)
+INFO    : ----------------------------------------------------
