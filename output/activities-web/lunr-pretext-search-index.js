@@ -106,7 +106,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Math 221 Tangent Line Worksheet",
-  "body": " Math 221 Tangent Line Worksheet     Show how to include an image using Prefigure code.    Show displayed and alligned math as well as some minor math typesetting issues that come from xml syntax (see the code for details).      In this activity students are asked to decide when to switch the tangent line approximation they use to approximate square roots.    Set-up  Recall from class that we can approximate square roots of numbers that aren't perfect squares using the tangent line approximation near some number  where .  For instance, to approximate we decided to use the tangent line approximation at the nearest perfect square, which is given by  Thus, we can estimate .  Now, what if there isn't a ``nearest'' perfect square? For instance, which tangent line should we use to approximate ( is exactly halfway between and )? The following exercise will help us figure out the answer.     Below is the graph of along with its tangent lines at and .   The graph of and its tangent line approximations at and .     a=4  b=9  f(x) = x^(0.5)                (9,3)           "
+  "body": " Math 221 Tangent Line Worksheet     Show how to include an image using Prefigure code.    Show displayed and alligned math as well as some minor math typesetting issues that come from xml syntax (see the code for details).      In this activity students are asked to decide when to switch the tangent line approximation they use to approximate square roots.    Set-up  Recall from class that we can approximate square roots of numbers that aren't perfect squares using the tangent line approximation near some number  where .  For instance, to approximate we decided to use the tangent line approximation at the nearest perfect square, which is given by  Thus, we can estimate .  Now, what if there isn't a ``nearest'' perfect square? For instance, which tangent line should we use to approximate ( is exactly halfway between and )? The following exercise will help us figure out the answer.     Below is the graph of along with its tangent lines at and .   The graph of and its tangent line approximations at and .     a=4  b=9  f(x) = x^(0.5)          (4,2)    f(x) = \\sqrt{x}         (9,3)           Use the figure above to give intervals of -values on which and give more accurate estimates of . That is, gind some -value, , such that whenever and whenever .    Use algebra to justify your answer above.       Interactive Remarks    Note the issues in the code where Latex syntax conflicted with xml. There are a few instances when these happen.      Prefigure is really more intuitive to use than Tikz and generates more accessible images. Full documentation is available at and a very convenient tool for testing your figures is available at .     "
 },
 {
   "id": "221-tangents-2",
@@ -124,7 +124,25 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Below is the graph of along with its tangent lines at and .   The graph of and its tangent line approximations at and .     a=4  b=9  f(x) = x^(0.5)                (9,3)          "
+  "body": "  Below is the graph of along with its tangent lines at and .   The graph of and its tangent line approximations at and .     a=4  b=9  f(x) = x^(0.5)          (4,2)    f(x) = \\sqrt{x}         (9,3)           Use the figure above to give intervals of -values on which and give more accurate estimates of . That is, gind some -value, , such that whenever and whenever .    Use algebra to justify your answer above.     "
+},
+{
+  "id": "prefigure-math-remarks-2",
+  "level": "2",
+  "url": "221-tangents.html#prefigure-math-remarks-2",
+  "type": "Remark",
+  "number": "8",
+  "title": "",
+  "body": "  Note the issues in the code where Latex syntax conflicted with xml. There are a few instances when these happen.   "
+},
+{
+  "id": "prefigure-math-remarks-3",
+  "level": "2",
+  "url": "221-tangents.html#prefigure-math-remarks-3",
+  "type": "Remark",
+  "number": "9",
+  "title": "",
+  "body": "  Prefigure is really more intuitive to use than Tikz and generates more accessible images. Full documentation is available at and a very convenient tool for testing your figures is available at .   "
 },
 {
   "id": "sec-section-name-7",

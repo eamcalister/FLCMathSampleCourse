@@ -1,5 +1,5 @@
-file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities.ptx:8:0:ERROR:RELAXNGV:RELAXNG_ERR_EXTRACONTENT: Element bibinfo has extra content: author
-file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element frontmatter there
-file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element sidebyside, got frontmatter
-file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element proof, got frontmatter
-file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities.ptx:6:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element exercise, got frontmatter
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/221sample-wksht.ptx:4:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element title, got worksheet
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/221sample-wksht.ptx:4:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element article failed to validate content
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/221sample-wksht.ptx:3:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element docinfo, got pretext
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/221sample-wksht.ptx:3:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element pretext there
+file:/C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/source/activities/221sample-wksht.ptx:3:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element webwork, got pretext
