@@ -1,0 +1,16 @@
+INFO    : Generating any needed assets.
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : converting PreFigure diagrams from C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx to SVG graphics for placement in C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\generated-assets\prefigure
+INFO    : extracting PreFigure diagrams from C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx
+INFO    : string parameters passed to extraction stylesheet: {'publisher': 'C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/publication/publication-activities.ptx'}
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\extract-prefigure.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking ONLY the last TWO YEARS of element deprecations.
+Rerun with the string parameter "author.deprecations.all" set to "yes" to check your source against all deprecations.
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\extract-prefigure.xsl
+INFO    : copying PreFigure output to C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\generated-assets\prefigure
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-jjp04h6w
+INFO    : Finished generating assets.
+
+INFO    : 

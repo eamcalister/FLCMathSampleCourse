@@ -57,12 +57,13 @@
                 Below is the graph of <m>f(x) = \sqrt{x}</m> along with its tangent lines at <m>x= 4</m> and <m>x=9</m>.
             </p>
             
-<figure xml:id="sqrt-tangents">
+<figure>
     <caption>The graph of <m>f(x) = \sqrt{x}</m> and its tangent line approximations at <m>x=4</m> and <m>x=9</m>.
     </caption>
 
-<image>
-<prefigure xmlns="https://prefigure.org" label = "sqrts">
+<image xml:id="sqrt-tangents">
+
+<prefigure label = "sqrts" xmlns="https://prefigure.org">
 <diagram dimensions="(400,400)" margins="50">
   <definition>a=4</definition>
   <definition>b=9</definition>
@@ -94,7 +95,7 @@
   </coordinates>
 </diagram>
 </prefigure>
-</image>    
+</image>   
 </figure>
 <ol>
     <li>
