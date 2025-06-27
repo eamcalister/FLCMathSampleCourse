@@ -37,7 +37,7 @@
                     </p>
                     <figure xml:id="desmos-interactive">
                     <caption>Note: frhv1grqhj is the last part of the Desmos graph. When you modify the Desmos graph and re-save it, that may change the url.</caption>
-                    <interactive  xml:id="demos-shift-reflect-int" desmos="frhv1grqhj" width="100%" aspect="3:2" />
+                    <interactive  xml:id="desmos-shift-reflect-int" desmos="frhv1grqhj" width="100%" aspect="3:2" />
                     </figure>
                 </introduction>
                 <task>

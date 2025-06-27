@@ -17,10 +17,10 @@ pretext deploy --stage-only
 pretext view -d
 ```
 
-If you want to build just a single activity, say the "Magic Beans" activity, run:
+If you want to build just a single activity, say the "221-samplewksht" activity, run:
 
 ```bash
-pretext build  pdf -i ./source/activities/magic-beans.ptx
+pretext build  pdf -i ./source/activities/221sample-wksht.ptx
 ```
 
 This will create a pdf inside the `output/pdfs` directory.
@@ -28,15 +28,13 @@ This will create a pdf inside the `output/pdfs` directory.
 Another thing to try:
 
 ```bash
-pretext build scorm -i ./source/activities/magic-beans.ptx
+pretext build scorm -i ./source/activities/221sample-wksht.ptx
 ```
 
 
 ### How this is done
 
-Look at the source files, in particular `source/acitivies.ptx` and `source/activities/magic-beans.ptx` to see how the activities are included in the main document and can also build on their own.
 
-The use of `xpointer="/1/1/1"` is a little mysterious; we could have also used `xpoint="Activity-magic-beans"` to refer to the activity by its `xml:id`, although this would require us changing that for each included activity.
 
 
 ---
