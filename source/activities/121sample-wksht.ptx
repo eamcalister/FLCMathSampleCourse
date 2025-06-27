@@ -30,8 +30,8 @@
                 </p>
             </introduction>
 
-            <exercise workspace="2in">
-                <statement>
+            <exercise>
+                <introduction>
                     <p>
                         Use the interactive Desmos graph given above with sliders for <m>a</m> and <m>b</m> to describe the effect of each algebraic substitutions on the graph of <m>y = f(x)</m>.
                     </p>
@@ -39,40 +39,50 @@
                     <caption>Note: frhv1grqhj is the last part of the Desmos graph. When you modify the Desmos graph and re-save it, that may change the url.</caption>
                     <interactive  xml:id="demos-shift-reflect-int" desmos="frhv1grqhj" width="100%" aspect="3:2" />
                     </figure>
-                    
-                    <ol>
-                        <li>
-                            <p>
-                                <m>f(-x)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
-                            </p>
-                        </li>
-                         <li>
-                            <p>
-                                <m>-f(x)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
-                            </p>
-                        </li>
-                        <li>
-                            <p>
-                                <m>f(x-a)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
-                            </p>
-                        </li>
-                        <li>
-                            <p>
-                                <m>f(x+a)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
-                            </p>
-                        </li>
-                        <li>
-                            <p>
-                                <m>f(x)+b</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
-                            </p>
-                        </li>
-                        <li>
-                            <p>
-                                <m>f(x)+b</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
-                            </p>
-                        </li>
-                    </ol>
-                </statement>
+                </introduction>
+                <task>
+                    <statement>
+                        <p>
+                             <m>f(-x)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+                        </p>
+                    </statement>
+                </task>   
+                <task>
+                    <statement>
+                        <p>
+                            <m>-f(x)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+                        </p>
+                    </statement>
+                </task> 
+                <task>
+                    <statement>
+                        <p>
+                            <m>f(x-a)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+                        </p>
+                    </statement>
+                </task>
+                <task>
+                    <statement>
+                        <p>
+                            <m>f(x+a)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+                        </p>
+                    </statement>
+                </task>
+                <task>
+                    <statement>
+                        <p>
+                            <m>f(x)+b</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+                        </p>
+                    </statement>
+                </task>
+                <task>
+                    <statement>
+                        <p>
+                            <m>f(x)+b</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+                        </p>
+                    </statement>
+                </task>
+
             </exercise>
 
         <subsection xml:id="interactive-remarks">

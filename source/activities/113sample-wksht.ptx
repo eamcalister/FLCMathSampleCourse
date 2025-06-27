@@ -31,35 +31,38 @@
         </p>
     </introduction>
 <page>
-    <exercise workspace="2in">
-    <statement>
+<!--Multipart exercises are structured with an introduction followed by a series of tasks.-->
+    <exercise>
+    <introduction>
         <p>
             Use the figure below to fill in the missing values.
-            <ol>
-                <li>
-                    <p>
-                        <m>f(0) = ?</m>
-                    </p>
-                </li>
-                <li>
-                    <p>
-                        <m>f(?) = 0</m>
-                   </p>
-                </li>
-            </ol>
+        </p> 
         <figure xml:id="1_1FunctionGraph">
             <caption>Graph saved in assets as .png from outside source.</caption>
             <image width="75%" source="IntroGraph.png">     
             </image>
         </figure>
-        </p>
-    </statement>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                <m>f(0) = ?</m>
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                <m>f(?) = 0</m>
+            </p>
+        </statement>
+    </task>
     </exercise>
 </page>
     
 <page>
-    <exercise workspace="3in">
-    <statement>
+    <exercise>
+    <introduction>
         <p>
             Data for rainfall, <m>R = f(t)</m>, in Tucson, Arizona is given in <xref ref="rain-table"/> below, where time, <m>t</m>, is in months with <m>t=1</m> being January. 
         </p>
@@ -74,24 +77,28 @@
                 </row>
             </tabular>
         </table>
-        <ol>
-            <li>
-                <p>
-                    Find and interpret <m>f(5)</m>.
-                </p>
-            </li>
-            <li>
-                <p>
-                    Solve <m>f(t) = 0</m> and interpret the meaning of your answer.
-                </p>
-            </li>
-            <li>
-                <p>
-                    Solve <m>f(t) = 0.1</m> and interpret the meaning of your answer.
-                </p>
-            </li>
-        </ol>
-    </statement>
+    </introduction>
+    <task workspace="2in">
+        <statement>
+            <p>
+                Find and interpret <m>f(5)</m>.
+            </p>
+        </statement>
+    </task>
+    <task workspace="2in">
+        <statement>
+            <p>
+                Solve <m>f(t) = 0</m> and interpret the meaning of your answer.
+            </p>
+        </statement>
+    </task>
+    <task workspace="2in">
+        <statement>
+            <p>
+                Solve <m>f(t) = 0.1</m> and interpret the meaning of your answer. 
+            </p>
+        </statement>
+    </task>
     </exercise>
 </page>
 
