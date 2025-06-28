@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<webwork-representations>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-1" ww-id="webwork-1">
+    <static seed="1" source="Library/ma122DB/set12/s5_4_26.pg">
+      <statement><p><m>\displaystyle \int_0^{1} (5 e^x+2 \sin x)\, dx</m> =  <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>9.51080453055895</m>
+        </p>
+      </answer>
+      <solution><p>SOLUTION</p>
+<p><me>\begin{array}{rcl} \displaystyle \int_0^{1} (5 e^x+2 \sin x)\, dx \amp =\amp   
+\displaystyle  5 e^x-2 \cos x  \Big]_0^{1}
+\\ \amp =\amp  (5 e^{1} - 2 \cos 1) - (5 e^0 - 2 \cos0 ) 
+\\ \amp =\amp  5 e^{1} - 2 \cos 1 - 3 
+\end{array}</me></p>
+</solution>
+    </static>
+    <server-data sourceFilePath="Library/ma122DB/set12/s5_4_26.pg" domain="https://webwork-ptx.aimath.org" course-id="anonymous" user-id="anonymous" password="anonymous" language="en-US"/>
+    <pg source="Library/ma122DB/set12/s5_4_26.pg"/>
+  </webwork-reps>
+</webwork-representations>
