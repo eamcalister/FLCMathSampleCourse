@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<webwork-representations>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-1" ww-id="webwork-1">
+    <static seed="1" source="Library/FortLewis/Algebra/1-4-Equivalent-equations/MCH1-1-4-12-Equivalent-equations.pg">
+      <statement><p>(a)   
+What operation on both sides of the equation
+<m>x^3 = 8</m> isolates the variable on 
+one side?  There may be more than one correct
+answer.
+<var form="checkboxes">
+<li>
+<p>Taking the cube root of both sides</p>
+</li>
+<li>
+<p>Dividing both sides by <m>3</m></p>
+</li>
+<li>
+<p>Dividing both sides by <m>x^3</m></p>
+</li>
+<li>
+<p>Subtracting <m>8</m> from both sides</p>
+</li>
+<li>
+<p>Dividing both sides by <m>x^2</m></p>
+</li>
+</var></p>
+<p>(b) Give the solution of the equation <m>x^3 = 8</m>.</p>
+<p><m>x =</m>
+<fillin name="AnSwEr0001" characters="10"/></p>
+</statement>
+      <answer>
+        <p>A</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/FortLewis/Algebra/1-4-Equivalent-equations/MCH1-1-4-12-Equivalent-equations.pg" domain="https://webwork-ptx.aimath.org" course-id="anonymous" user-id="anonymous" password="anonymous" language="en-US"/>
+    <pg source="Library/FortLewis/Algebra/1-4-Equivalent-equations/MCH1-1-4-12-Equivalent-equations.pg"/>
+  </webwork-reps>
+</webwork-representations>

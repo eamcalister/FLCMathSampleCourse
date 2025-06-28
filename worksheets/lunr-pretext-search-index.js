@@ -151,16 +151,43 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Math 222 Series Test Worksheet",
-  "body": " Math 222 Series Test Worksheet   This is the introduction to the activity.     This is the first exercise.    "
+  "body": " Math 222 Series Test Worksheet     Demonstrate a variety of interactive exercises using Calculus II problems (for some reason).      If given as a pre-class activity or uncollected set of exercises in class (so printing would not be necessary), it might make sense to have interactive exercises that check answers and give some sort of feedback.    True\/False  vector space   Suppose is a sequence such that . Can you conclude that the series converges?    Check your notes from last class to find a counterexample.    The fact that does not imply necessarily converges. You can apply the integral test to series.      Here's a MyOpenMath problem. They are very easy to include.       Here is a Webwork problem. (Hoping that a new FLC Webwork server, which will more closely resemble what you see here, will be up by Fall.) Using variants of actual assigned Webwork problems can be helpful in building student confidence when they do their assigned homework.     (a) What operation on both sides of the equation isolates the variable on one side? There may be more than one correct answer.   Taking the cube root of both sides    Dividing both sides by    Dividing both sides by    Subtracting from both sides    Dividing both sides by    (b) Give the solution of the equation .      A        "
 },
 {
-  "id": "sec-section-name-7-3",
+  "id": "sec-section-name-7-2",
   "level": "2",
-  "url": "sec-section-name-7.html#sec-section-name-7-3",
+  "url": "sec-section-name-7.html#sec-section-name-7-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Demonstrate a variety of interactive exercises using Calculus II problems (for some reason).    "
+},
+{
+  "id": "nth-term-divergence",
+  "level": "2",
+  "url": "sec-section-name-7.html#nth-term-divergence",
   "type": "Worksheet Exercise",
   "number": "1",
+  "title": "True\/False.",
+  "body": " True\/False  vector space   Suppose is a sequence such that . Can you conclude that the series converges?    Check your notes from last class to find a counterexample.    The fact that does not imply necessarily converges. You can apply the integral test to series.   "
+},
+{
+  "id": "sec-section-name-7-5",
+  "level": "2",
+  "url": "sec-section-name-7.html#sec-section-name-7-5",
+  "type": "Worksheet Exercise",
+  "number": "2",
   "title": "",
-  "body": "  This is the first exercise.   "
+  "body": "  Here's a MyOpenMath problem. They are very easy to include.    "
+},
+{
+  "id": "sec-section-name-7-6",
+  "level": "2",
+  "url": "sec-section-name-7.html#sec-section-name-7-6",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Here is a Webwork problem. (Hoping that a new FLC Webwork server, which will more closely resemble what you see here, will be up by Fall.) Using variants of actual assigned Webwork problems can be helpful in building student confidence when they do their assigned homework.     (a) What operation on both sides of the equation isolates the variable on one side? There may be more than one correct answer.   Taking the cube root of both sides    Dividing both sides by    Dividing both sides by    Subtracting from both sides    Dividing both sides by    (b) Give the solution of the equation .      A       "
 }
 ]
 
