@@ -151,7 +151,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Math 222 Series Test Worksheet",
-  "body": " Math 222 Series Test Worksheet     Demonstrate a variety of interactive exercises using Calculus II problems (for some reason).      If given as a pre-class activity or uncollected set of exercises in class (so printing would not be necessary), it might make sense to have interactive exercises that check answers and give some sort of feedback.    True\/False  vector space   Suppose is a sequence such that . Can you conclude that the series converges?    Check your notes from last class to find a counterexample.    The fact that does not imply necessarily converges. You can apply the integral test to series.      Here's a MyOpenMath problem. They are very easy to include.       Here is a Webwork problem. (Hoping that a new FLC Webwork server, which will more closely resemble what you see here, will be up by Fall.) Using variants of actual assigned Webwork problems can be helpful in building student confidence when they do their assigned homework.     =        SOLUTION         "
+  "body": " Math 222 Series Test Worksheet     Demonstrate a variety of interactive exercises using Calculus II problems (for some reason).      If given as a pre-class activity or uncollected set of exercises in class (so printing would not be necessary), it might make sense to have interactive exercises that check answers and give some sort of feedback. When a print version of this worksheet is generated you get static versions of these problems.    True\/False  vector space   Suppose is a sequence such that . Can you conclude that the series converges?    Check your notes from last class to find a counterexample.    The fact that does not imply necessarily converges. You can apply the integral test to series.      Here's a MyOpenMath problem. They are very easy to include, but perhaps not that attractive.       Here is a Webwork problem, which are also easy to include. (Hoping that a new FLC Webwork server, which will more closely resemble what you see here, will be up by Fall.) Using variants of actual assigned Webwork problems can be helpful in building student confidence when they do their assigned homework. Students must click the \"Activate\" button for the exercise to be interactive.  It is also possible to author problems directly using pg code.     Compute the value of the following improper integral. If it is divergent, type \"Diverges\" or \"D\". Answer:  Using the improper integral from above and the Integral Test, determine whether the following series converges or diverges. Answer \"Converges\" or \"Diverges.\"  Answer:   Converges    Diverges                      Here is an example of a Parson's problem for a proof that a series converges. There are many problem types that can be authored  The problem is to decide if converges.     This series is of the form , where .    Since , this series converges.     , i.e. the sequence of absolute values is positive and decreasing.         Thus, this series converges by the Alternating Series Test.      "
 },
 {
   "id": "sec-section-name-7-2",
@@ -178,7 +178,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Here's a MyOpenMath problem. They are very easy to include.    "
+  "body": "  Here's a MyOpenMath problem. They are very easy to include, but perhaps not that attractive.    "
 },
 {
   "id": "sec-section-name-7-6",
@@ -187,7 +187,16 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Here is a Webwork problem. (Hoping that a new FLC Webwork server, which will more closely resemble what you see here, will be up by Fall.) Using variants of actual assigned Webwork problems can be helpful in building student confidence when they do their assigned homework.     =        SOLUTION        "
+  "body": "  Here is a Webwork problem, which are also easy to include. (Hoping that a new FLC Webwork server, which will more closely resemble what you see here, will be up by Fall.) Using variants of actual assigned Webwork problems can be helpful in building student confidence when they do their assigned homework. Students must click the \"Activate\" button for the exercise to be interactive.  It is also possible to author problems directly using pg code.     Compute the value of the following improper integral. If it is divergent, type \"Diverges\" or \"D\". Answer:  Using the improper integral from above and the Integral Test, determine whether the following series converges or diverges. Answer \"Converges\" or \"Diverges.\"  Answer:   Converges    Diverges                   "
+},
+{
+  "id": "sec-section-name-7-7",
+  "level": "2",
+  "url": "sec-section-name-7.html#sec-section-name-7-7",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Here is an example of a Parson's problem for a proof that a series converges. There are many problem types that can be authored  The problem is to decide if converges.     This series is of the form , where .    Since , this series converges.     , i.e. the sequence of absolute values is positive and decreasing.         Thus, this series converges by the Alternating Series Test.     "
 }
 ]
 

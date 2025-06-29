@@ -31,7 +31,7 @@
         </p>
     </introduction>
 <page>
-<!--Multipart exercises are structured with an introduction followed by a series of tasks.-->
+<!--Multipart exercises are structured with an introduction followed by a series of tasks. Each part should have a <statement>. If there is just one part, it should still have a <statement>.-->
     <exercise>
     <introduction>
         <p>

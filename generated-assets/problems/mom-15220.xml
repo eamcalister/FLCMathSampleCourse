@@ -2,10 +2,10 @@
 <myopenmath xmlns:pi="http://pretextbook.org/2020/pretext/internal" id="15220">
 <statement>
 <p>
-The series <m>\displaystyle{\sum_{{{k}={1}}}^{\infty}}{6}{\left(-{1}\right)}^{{k}}{1.1}^{{-{1.6}{/}{k}}}</m>  divergesconverges.
+The series <m>\displaystyle{\sum_{{{k}={1}}}^{\infty}}{9}{\left(-{1}\right)}^{{k}}{0.1}^{{-{1.8}{/}{k}}}</m>  convergesdiverges.
 </p>
 </statement>
 <solution>
-<p><ul><li>A: diverges</li></ul></p>
+<p><ul><li>B: diverges</li></ul></p>
 </solution>
 </myopenmath>
