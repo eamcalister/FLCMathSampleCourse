@@ -1,0 +1,42 @@
+WARNING : Overriding source file for target with: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities\221sample-wksht.ptx
+INFO    : Building target scorm
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities\221sample-wksht.ptx by C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : Generating any needed assets.
+INFO    : converting PreFigure diagrams from C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities\221sample-wksht.ptx to SVG graphics for placement in C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\generated-assets\prefigure
+INFO    : extracting PreFigure diagrams from C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities\221sample-wksht.ptx
+INFO    : string parameters passed to extraction stylesheet: {'cli.version': '2.19', 'publisher': 'C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/publication/publication_standalone.ptx'}
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities\221sample-wksht.ptx by C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\extract-prefigure.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking ONLY the last TWO YEARS of element deprecations.
+Rerun with the string parameter "author.deprecations.all" set to "yes" to check your source against all deprecations.
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\extract-prefigure.xsl
+INFO    : compiling PreFigure source file sqrts.xml to SVG
+INFO    : copying PreFigure output to C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\generated-assets\prefigure
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-redfzvge
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\output\scorms.
+INFO    : discovering source file's directory name: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities
+INFO    : verifying and expanding input directory: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities\../generated-assets
+INFO    : input directory expanded to absolute path: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\generated-assets
+INFO    : verifying and expanding input directory: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities\../assets
+INFO    : input directory expanded to absolute path: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\assets
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities\221sample-wksht.ptx by C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : Downloading rs services file from https://runestone.academy/cdn/runestone/latest/webpack_static_imports.xml.
+INFO    : Runestone Services via online CDN query: version 7.8.4
+INFO    : Downloading Runestone Services, version 7.8.4
+INFO    : Extracting Runestone Services from archive file
+INFO    : Building custom css theme: theme-salem
+INFO    : converting C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities\221sample-wksht.ptx to HTML in C:\Users\MCALIS~1\AppData\Local\Temp\ptx-q73cg4vr
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities\221sample-wksht.ptx by C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\pretext-html.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.19.3\core\xsl\pretext-html.xsl
+INFO    : packaging a zip file temporarily as C:\Users\MCALIS~1\AppData\Local\Temp\ptx-q73cg4vr\html-output.zip
+INFO    : zip file of HTML output deposited as C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/output/scorms\221sample-wksht.zip
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-q73cg4vr
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-ai7sdkdu
+INFO    : 
+Success! The output is in C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\output\scorms.
+
+INFO    : 

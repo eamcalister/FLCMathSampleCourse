@@ -74,9 +74,9 @@
   <definition>f(x) = x^(0.5)</definition>
   <coordinates bbox="[0,0,10,4]">
     <grid-axes xlabel="x" ylabel="y"/>
-    <group>
-      <graph function='f' />
-      <tangent-line function="f" point="a"
+    <graph at="function" function='f' />
+    <group at="tangent1">
+      <tangent-line  function="f" point="a"
 		    infinite="yes"/>
       <point  p="(a, f(a))" stroke="red">
       </point>
@@ -87,8 +87,8 @@
         <m>f(x) = \sqrt{x}</m>
         </label>
     </group>
-    <group >
-      <tangent-line  function="f" point="b"
+    <group at="tangent2" >
+      <tangent-line function="f" point="b"
 		    infinite="yes" stroke="green"/>
       <point  p="(b, f(b))" stroke="green" fill="green" >
       </point>
@@ -97,6 +97,13 @@
       </label>
     </group>
   </coordinates>
+  <annotations>
+    <annotation ref="figure" text="The graph of the square root of x and its tangents at x=4 and x=9.">
+    <annotation ref="function" text="The graph of the square root of x." sonnify="yes" speech="The graph of the square root of x."/>
+    <annotation ref="tangent1" text="The tangent line to the square root at x=4." sonnify="yes" speech="The tangent line to the square root at x=4."/>
+    <annotation ref="tangent2" text="The tangent line to the square root at x=9." sonnify="yes" speech="The tangent line to the square root at x=9."/>
+    </annotation>    
+  </annotations>
 </diagram>
 </prefigure>
 </image>   
