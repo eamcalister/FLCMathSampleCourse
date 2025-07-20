@@ -2,10 +2,10 @@
 <myopenmath xmlns:pi="http://pretextbook.org/2020/pretext/internal" id="15220">
 <statement>
 <p>
-The series <m>\displaystyle{\sum_{{{k}={1}}}^{\infty}}{9}{\left(-{1}\right)}^{{k}}{1.4}^{{-{1.9}{/}{k}}}</m>  convergesdiverges.
+The series <m>\displaystyle{\sum_{{{k}={1}}}^{\infty}}{4}{\left(-{1}\right)}^{{k}}{1.8}^{{-{0.6}{/}{k}}}</m>  divergesconverges.
 </p>
 </statement>
 <solution>
-<p><ul><li>B: diverges</li></ul></p>
+<p><ul><li>A: diverges</li></ul></p>
 </solution>
 </myopenmath>
