@@ -1,0 +1,95 @@
+WARNING : Using CLI version 2.24.0 but project's `requirements.txt`
+WARNING : is configured to use 2.19.3. Consider either installing
+WARNING : CLI version 2.19.3 or running `pretext update`
+WARNING : to update `requirements.txt` and other managed files to match 2.24.0.
+INFO    : Building target activities-web
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : Generating any needed assets.
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : converting PreFigure diagrams from C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx to SVG graphics for placement in C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\generated-assets\prefigure
+INFO    : extracting PreFigure diagrams from C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx
+INFO    : string parameters passed to extraction stylesheet: {'cli.version': '2.24', 'publisher': 'C:/Users/mcalister_e/Desktop/Pretext_repositories/FLCMathSampleCourse/publication/publication-activities.ptx'}
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\extract-prefigure.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking ONLY the last TWO YEARS of element deprecations.
+Rerun with the string parameter "author.deprecations.all" set to "yes" to check your source against all deprecations.
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\extract-prefigure.xsl
+INFO    : discovering source file's directory name: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source
+INFO    : verifying and expanding input directory: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\../generated-assets
+INFO    : input directory expanded to absolute path: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\generated-assets
+INFO    : verifying and expanding input directory: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\../assets
+INFO    : input directory expanded to absolute path: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\assets
+INFO    : discovering source file's directory name: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source
+ERROR   : Unable to generate some prefigure images:
+ PTX ERROR: the "prefig" module has failed to load, and
+  this is necessary for the task you have requested.  Perhaps
+  you have not installed it?  Or perhaps you have forgotten to
+  use a Python virtual environment you set up for this purpose?
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-0eoplc4o
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\output\activities-web.
+INFO    : discovering source file's directory name: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source
+INFO    : verifying and expanding input directory: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\../generated-assets
+INFO    : input directory expanded to absolute path: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\generated-assets
+INFO    : verifying and expanding input directory: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\../assets
+INFO    : input directory expanded to absolute path: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\assets
+INFO    : discovering source file's directory name: C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : Downloading rs services file from https://runestone.academy/cdn/runestone/latest/webpack_static_imports.xml.
+INFO    : Runestone Services via online CDN query: version 7.9.1
+INFO    : Downloading Runestone Services, version 7.9.1
+INFO    : Extracting Runestone Services from archive file
+INFO    : Building custom css theme: theme-salem
+INFO    : converting C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx to HTML in C:\Users\MCALIS~1\AppData\Local\Temp\ptx-sm5q0j6j
+INFO    : XSL conversion of C:\Users\mcalister_e\Desktop\Pretext_repositories\FLCMathSampleCourse\source\activities.ptx by C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\pretext-html.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking ONLY the last TWO YEARS of element deprecations.
+Rerun with the string parameter "author.deprecations.all" set to "yes" to check your source against all deprecations.
+INFO    : successful application of C:\Users\mcalister_e\.ptx\2.24.0\core\xsl\pretext-html.xsl
+WARNING : Failed to map codechat path to xml id; codechat will not work.
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-sm5q0j6j
+INFO    : Removing temporary directory C:\Users\MCALIS~1\AppData\Local\Temp\ptx-bp_lmwzk
+INFO    : 
+Finished build for target activities-web. Run `pretext view activities-web` to see the results.
+
+CRITICAL: There were errors during the build.  See above.
+INFO    : ------------------------
+CRITICAL: Failed to build without errors.  Exiting...
+INFO    : 
+----------------------------------------------------
+INFO    : While running pretext, the following errors occurred:
+
+INFO    : (see log messages above or in the 'logs' folder for more information)
+INFO    : ----------------------------------------------------

@@ -3,7 +3,7 @@ var ptx_lunr_docs = [
 {
   "id": "syllabus",
   "level": "1",
-  "url": "syllabus.html",
+  "url": "#syllabus",
   "type": "Article",
   "number": "",
   "title": "Course Title Syllabus",
@@ -12,7 +12,7 @@ var ptx_lunr_docs = [
 {
   "id": "gtpathways-4",
   "level": "2",
-  "url": "syllabus.html#gtpathways-4",
+  "url": "#gtpathways-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -21,7 +21,7 @@ var ptx_lunr_docs = [
 {
   "id": "campus-policies-2-2",
   "level": "2",
-  "url": "syllabus.html#campus-policies-2-2",
+  "url": "#campus-policies-2-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -30,7 +30,7 @@ var ptx_lunr_docs = [
 {
   "id": "campus-policies-2-3",
   "level": "2",
-  "url": "syllabus.html#campus-policies-2-3",
+  "url": "#campus-policies-2-3",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -39,7 +39,7 @@ var ptx_lunr_docs = [
 {
   "id": "campus-policies-2-4",
   "level": "2",
-  "url": "syllabus.html#campus-policies-2-4",
+  "url": "#campus-policies-2-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -48,7 +48,7 @@ var ptx_lunr_docs = [
 {
   "id": "campus-policies-2-10",
   "level": "2",
-  "url": "syllabus.html#campus-policies-2-10",
+  "url": "#campus-policies-2-10",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -57,7 +57,7 @@ var ptx_lunr_docs = [
 {
   "id": "campus-policies-2-11",
   "level": "2",
-  "url": "syllabus.html#campus-policies-2-11",
+  "url": "#campus-policies-2-11",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
